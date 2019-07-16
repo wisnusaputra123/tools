@@ -20,11 +20,12 @@ red='\e[1;31m'
 
 figlet wisnu | lolcat
 figlet saputra | lolcat
+
 echo -e "__________________________________________________"
 echo -e  "Tools    : Wisnu-Tools-Installer $white         " |lolcat
-echo -e  "instagram  : wisnu_as123 $white   " |lolcat
+echo -e  "Instagram  : wisnu_as123 $white   " |lolcat
 echo -e  "Contact  : username123@gmail.com $white " |lolcat
-echo -e  "_____________________________________________________________"
+echo -e  "_________________________________________________"
 
 ###################################################
 # CTRL + C
@@ -72,7 +73,7 @@ echo
 
 ;;
 
-# spamcall
+# Spamcall
 
 2) git clone https://github.com/wisnusaputra123/spamcall.git
 echo -e "${y} cd spamcall"
