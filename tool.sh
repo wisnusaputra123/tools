@@ -65,8 +65,8 @@ read -p "╰─#" pil;
 
 case $pil in
 1) git clone https://github.com/wisnusaputra123/spam.git
-echo -e  "${y} {1} cara buka= cd spam" | lolcat
-echo -e  "${y} {1} cara install= bash project.sh" | lolcat
+echo -e  "${y} {1} cara buka= cd spam | lolcat
+echo -e  "${y} {1} cara install= bash project.sh | lolcat
  
 
 echo
@@ -77,8 +77,8 @@ echo
 
 2) git clone https://github.com/wisnusaputra123/spamcall.git
 echo -e "${y} sabar
-echo -e "${y} cara buka= cd spamcall" | lolcat
-echo -e "${y} cara spam= php call.php" | lolcat
+echo -e "${y} cara buka= cd spamcall | lolcat
+echo -e "${y} cara spam= php call.php | lolcat
 
 
 echo
