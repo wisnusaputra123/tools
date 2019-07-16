@@ -46,7 +46,7 @@ lagi=1
 while [ $lagi -lt 6 ];
 do
 echo ""
-echo -e $b "1.  install-command${enda}";
+echo -e $c "1.  install-command${enda}";
 echo -e "============================" | lolcat
 echo -e $r "2.  Spamcall${endc}";
 echo -e "============================" | lolcat
@@ -65,8 +65,8 @@ read -p "╰─#" pil;
 
 case $pil in
 1) git clone https://github.com/wisnusaputra123/spam.git
-echo -e  "${y} {1} cd spam${endc}:"
-echo -e  "${y} {1} bash project.sh${endc}:"
+echo -e  "${y} {1} "cara buka= cd spam" | lolcat
+echo -e  "${y} {1} "cara install= bash project.sh" | lolcat
  
 
 echo
@@ -76,9 +76,9 @@ echo
 # Spamcall
 
 2) git clone https://github.com/wisnusaputra123/spamcall.git
-echo -e "${y} cd spamcall"
-echo -e "${y} tunggu sebentar
-echo -e "${y} php call.php
+echo -e "${y} sabar
+echo -e "${y} "cara buka= cd spamcall" | lolcat
+echo -e "${y} "cara spam= php call.php" | lolcat
 
 
 echo
