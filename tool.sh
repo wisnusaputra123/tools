@@ -44,7 +44,7 @@ lagi=1
 while [ $lagi -lt 6 ];
 do
 echo ""
-echo -e $b "1.  install-command${enda}";
+echo -e $c "1.  install-command${enda}";
 echo -e "============================" | lolcat
 echo -e $r "2.  Spamcall${endc}";
 echo -e "============================" | lolcat
