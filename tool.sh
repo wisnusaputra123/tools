@@ -29,15 +29,15 @@ echo -e  "_____________________________________________________________"
 # CTRL + C
 ###################################################
 echo -e "mohon tunggu sebentar"
-echo -e  "╭━━━━━━━╮"
-echo -e  "┃  ● ══ ┃"
-echo -e  "┃███████┃"    echo -e "─╤╦︻=(◣_◢)=︻╦╤─"
-echo -e  "┃███████┃"
-echo -e  "┃███████┃"           "==[ INSTALL TOOLS  PRIBADI ]==" 
-echo -e  "┃███████┃"           "+-----------------------------+"
-echo -e  "┃███████┃"           "| Author    : Wisnu Agung.S   |" 
-echo -e  "┃   ○   ┃"            "| instagram : wisnu_as123     |" 
-echo -e  "╰━━━━━━━╯"           "+-----------------------------+"
+echo -e  "╭━━━━━━━╮" |lolcat
+echo -e  "┃  ● ══ ┃" |lolcat
+echo -e  "┃███████┃" |lolcat           "─╤╦︻=(◣_◢)=︻╦╤─"
+echo -e  "┃███████┃" |lolcat
+echo -e  "┃███████┃" |lolcat          "==[ INSTALL TOOLS  PRIBADI ]==" |lolcat
+echo -e  "┃███████┃" |lolcat           "+-----------------------------+" |lolcat
+echo -e  "┃███████┃" |lolcat           "| Author    : Wisnu Agung.S   |" |lolcat 
+echo -e  "┃   ○   ┃" |lolcat            "| instagram : wisnu_as123     |" |lolcat 
+echo -e  "╰━━━━━━━╯" |lolcat           "+-----------------------------+" |lolcat
 
 trap ctrl_c INT
 ctrl_c() {
