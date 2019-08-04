@@ -35,8 +35,8 @@ echo -e "┃███████┃"        ─╤╦︻=(◣_◢)=︻╦╤─
 echo -e "┃███████┃"
 echo -e "┃███████┃"  ==[ INSTALL TOOLS  PRIBADI ]==" |lolcat
 echo -e "┃███████┃"  +-----------------------------+
-echo -e "┃███████┃"  | Author    : Wisnu Agung.S   | |lolcat
-echo -e "┃   ○    ┃"  | instagram : wisnu_as123     | |lolcat
+echo -e "┃███████┃"  | Author    : Wisnu Agung.S   | " |lolcat
+echo -e "┃   ○    ┃"  | instagram : wisnu_as123     | " |lolcat
 echo -e "╰━━━━━━━╯"  +-----------------------------+ " |lolcat
 
 trap ctrl_c INT
