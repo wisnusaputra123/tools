@@ -20,14 +20,25 @@ red='\e[1;31m'
 figlet wisnu | lolcat
 figlet saputra | lolcat
 echo -e "__________________________________________________"
-echo -e  "Tools    : Wisnu-Tools-Installer $white         " |lolcat
+echo -e  "Whatsapp   : 085780496494 $white         " |lolcat
 echo -e  "instagram  : wisnu_as123 $white   " |lolcat
-echo -e  "Contact  : username123@gmail.com $white " |lolcat
+echo -e  "Contact    : username123@gmail.com $white " |lolcat
 echo -e  "_____________________________________________________________"
 
 ###################################################
 # CTRL + C
 ###################################################
+
+╭━━━━━━━╮
+┃  ● ══  ┃
+┃███████┃        ─╤╦︻=(◣_◢)=︻╦╤─
+┃███████┃
+┃███████┃  ==[ INSTALL TOOLS  PRIBADI ]==
+┃███████┃  +-----------------------------+
+┃███████┃  | Author    : Wisnu Agung.S   |
+┃   ○    ┃  | instagram : wisnu_as123     |
+╰━━━━━━━╯  +-----------------------------+
+
 trap ctrl_c INT
 ctrl_c() {
 clear
