@@ -33,8 +33,8 @@ echo -e  "╭━━━━━━━╮" |lolcat
 echo -e  "┃  ● ══ ┃" |lolcat
 echo -e  "┃███████┃"  |lolcat
 echo -e  "┃███████┃" |lolcat
-echo -e  "┃███████┃"  |lolcat 
-echo -e  "┃███████┃" |lolcat
+echo -e  "┃███████┃"  |lolcat           | figlet tool
+echo -e  "┃███████┃" |lolcat.           | figlet installer
 echo -e  "┃███████┃"  |lolcat
 echo -e  "┃   ○   ┃" |lolcat
 echo -e  "╰━━━━━━━╯"  |lolcat
