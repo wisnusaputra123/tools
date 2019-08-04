@@ -30,14 +30,14 @@ echo -e  "_____________________________________________________________"
 ###################################################
 echo -e "mohon tunggu sebentar"
 echo -e  "╭━━━━━━━╮"
-echo -e  "┃  ● ══  ┃"
-echo -e  "┃███████┃"  echo -e "─╤╦︻=(◣_◢)=︻╦╤─"
+echo -e  "┃  ● ══ ┃"
+echo -e  "┃███████┃"    echo -e "─╤╦︻=(◣_◢)=︻╦╤─"
 echo -e  "┃███████┃"
-echo -e  "┃███████┃"  echo -e  "==[ INSTALL TOOLS  PRIBADI ]==" 
-echo -e  "┃███████┃"  echo -e  "+-----------------------------+"
-echo -e  "┃███████┃"  echo -e  "| Author    : Wisnu Agung.S   |" 
-echo -e  "┃   ○    ┃"  echo -e  "| instagram : wisnu_as123     |" 
-echo -e  "╰━━━━━━━╯"  echo -e  "+-----------------------------+"
+echo -e  "┃███████┃"           "==[ INSTALL TOOLS  PRIBADI ]==" 
+echo -e  "┃███████┃"           "+-----------------------------+"
+echo -e  "┃███████┃"           "| Author    : Wisnu Agung.S   |" 
+echo -e  "┃   ○   ┃"            "| instagram : wisnu_as123     |" 
+echo -e  "╰━━━━━━━╯"           "+-----------------------------+"
 
 trap ctrl_c INT
 ctrl_c() {
