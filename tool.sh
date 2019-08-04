@@ -31,13 +31,13 @@ echo -e  "_____________________________________________________________"
 echo -e "mohon tunggu sebentar"
 echo -e  "╭━━━━━━━╮" |lolcat
 echo -e  "┃  ● ══ ┃" |lolcat
-echo -e  "┃███████┃"  |lolcat           "─╤╦︻=(◣_◢)=︻╦╤─"
+echo -e  "┃███████┃"  |lolcat
 echo -e  "┃███████┃" |lolcat
-echo -e  "┃███████┃"  |lolcat          "==[ INSTALL TOOLS  PRIBADI ]==" 
-echo -e  "┃███████┃" |lolcat           "+-----------------------------+"
-echo -e  "┃███████┃"  |lolcat           "| Author    : Wisnu Agung.S   |"
-echo -e  "┃   ○   ┃" |lolcat            "| instagram : wisnu_as123     |"
-echo -e  "╰━━━━━━━╯"  |lolcat           "+-----------------------------+"
+echo -e  "┃███████┃"  |lolcat 
+echo -e  "┃███████┃" |lolcat
+echo -e  "┃███████┃"  |lolcat
+echo -e  "┃   ○   ┃" |lolcat
+echo -e  "╰━━━━━━━╯"  |lolcat
 
 trap ctrl_c INT
 ctrl_c() {
