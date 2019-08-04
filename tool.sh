@@ -33,11 +33,13 @@ echo -e  "╭━━━━━━━╮" |lolcat
 echo -e  "┃  ● ══ ┃" |lolcat
 echo -e  "┃███████┃"  |lolcat
 echo -e  "┃███████┃" |lolcat
-echo -e  "┃███████┃"  |lolcat           | figlet tool      |lolcat
-echo -e  "┃███████┃" |lolcat.           | figlet installer    |lolcat
+echo -e  "┃███████┃"  |lolcat
+echo -e  "┃███████┃" |lolcat
 echo -e  "┃███████┃"  |lolcat
 echo -e  "┃   ○   ┃" |lolcat
 echo -e  "╰━━━━━━━╯"  |lolcat
+figlet tool
+figlet installer
 
 trap ctrl_c INT
 ctrl_c() {
