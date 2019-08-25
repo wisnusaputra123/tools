@@ -3,16 +3,16 @@ import os, time
 os.system("clear")
 
 logo = """\x1b[1;38m
-╭━━━━━━━╮ _____________________________________
-┃  ● ══ ┃ |>                                   <|
-┃███████┃|>       ─╤╦︻=(◣_◢)=︻╦╤─          <|
-┃███████┃|>                                   <|
-┃███████┃|>==[ SEND VIRUS VIA NUMBER PHONE ]==<|
-┃███████┃|>___________________________________<|
-┃███████┃      jangan gunakan berlebihan
-┃   ○   ┃
-╰━━━━━━━╯    > > >==[wisnusaputra123]==< < <
-"""        ______________________________________
+╭━━━━━━━╮  _____________________________________
+┃  ● ══ ┃  |>                                   <|
+┃███████┃ |>       ─╤╦︻=(◣_◢)=︻╦╤─          <|
+┃███████┃ |>                                   <|
+┃███████┃ |>==[ SEND VIRUS VIA NUMBER PHONE ]==<|
+┃███████┃ |>___________________________________<|
+┃███████┃       jangan gunakan berlebihan
+┃   ○   ┃ 
+╰━━━━━━━╯     > > >==[wisnusaputra123]==< < <
+"""         ______________________________________
 
 print logo
 print "\x1b[1;33m\ntools ini digunakan untuk merusak hp korban"
@@ -30,7 +30,7 @@ if  nohp.isalpha():
 
    print "tolong masukkan nomor telepon"
    os.sys.exit()
-   os.system("python2 virus.py")
+   os.system("python2 Virus.py")
 a = 1
 def loop(a):
     for i in range(1000000):
