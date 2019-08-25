@@ -7,17 +7,17 @@ logo = """\x1b[1;38m
 |  _ \ ___ _ __ _   _ ___  __ _| | __ 
 | |_) / _ \ '__| | | / __|/ _` | |/ / 
 |  __/  __/ |  | |_| \__ \ (_| |   < 
-|_|   \___|_|   \__,_|___/\__,_|_|\_\ Wisnusaputra123 
+|_|   \___|_|   \__,_|___/\__,_|_|\_\ Wisnusaputra 
 """
 
 print logo
 print "\x1b[1;33m\ntools ini digunakan untuk merusak hp korban"
 time.sleep(2)
-print "\x1b[1;31mSubscribe Channel Pembuat Script ini \n \x1b[1;36mBlum buat asw"
-print "github = https://github.com/MrTaufik909/perusakhp"
-print "youtube =Blom Buat asw"
+print "\x1b[1;31mSubscribe Channel Pembuat Script ini \n \x1b[1;36mDSV plankton"
+print "github = https://github.com/wisnusaputra123/tools"
+print "instagram =wisnu_as123"
 time.sleep(5)
-print "Whatsapp = 082215060250"
+print "Whatsapp = 085718945758"
 time.sleep(1)
 nohp = raw_input("\x1b[1;33mNomor Hp Korban : ")
 time.sleep(3)
@@ -34,7 +34,7 @@ def loop(a):
     	   time.sleep(0.2)
     	   print "\x1b[1;31mMerusak hp korban...."
     	   time.sleep(0.1)
-    	   print "\x1b[1;34mSubscribe Blom Buat asw"
+    	   print "\x1b[1;34mVirus sedang dikirim"
     	   time.sleep(0.2)
 	   a += 1
 
