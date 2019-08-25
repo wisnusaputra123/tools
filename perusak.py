@@ -29,7 +29,7 @@ if  nohp.isalpha():
    os.system("python2 perusak.py")
 a = 1
 def loop(a):
-    for i in range(1000000):
+    for i in range(5):
        	   print "\x1b[1;32m" + (str(a)) + " \x1b[1;33mVirus Berbahaya Telah Dikirim ke " + "\x1b[1;34m" + nohp
     	   time.sleep(0.2)
     	   print "\x1b[1;31mMerusak hp korban...."
