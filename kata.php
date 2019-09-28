@@ -89,7 +89,7 @@ echo "$darkgray Sumber Script https://github.com/wisnusaputra123
 
 
         sleep(1);
-        echo "$blue Terima Kasih : $cyan " . $me->name;
+        echo "$blue Terima Kasih"
         sleep(1.5);
         echo "
 ";
