@@ -86,3 +86,12 @@ echo "$darkgray Sumber Script https://github.com/wisnusaputra123
    sleep(5.1);
   echo " ___________________________________________";
   echo " $yellow 1.Mohon Maaf Script Belum Selesai
+
+
+        sleep(1);
+        echo "$blue Terima Kasih : $cyan " . $me->name;
+        sleep(1.5);
+        echo "
+";
+    }
+?>
