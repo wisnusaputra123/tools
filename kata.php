@@ -85,11 +85,11 @@ echo "$darkgray Sumber Script https://github.com/wisnusaputra123
    echo " $red Kumpulan Kata Kata Bijak Jaman Now";
    sleep(5.1);
   echo " ___________________________________________";
-  echo " $yellow 1.Mohon Maaf Script Belum Selesai
+  echo " $yellow 1.Mohon Maaf Script Belum Selesai";
 
 
         sleep(1);
-        echo "$blue Terima Kasih"
+        echo "$red terima kasih";
         sleep(1.5);
         echo "
 ";
