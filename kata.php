@@ -44,27 +44,27 @@ $lightgray Date    : $date
         echo "$echo : ";
     }
     echo " $red sedang masuk ke server";
-    echo "$green _";
-    sleep(1.5);
-    echo "__";
-    sleep(1.5);
-    echo "___";
-    sleep(1.5);
-    echo "____";
-    sleep(1.5);
-    echo "_____";
-    sleep(1.5);
-    echo "______";
-    sleep(1.5);
-    echo "______";
-    sleep(1.5);
-    echo "________";
-    sleep(1.5);
-    echo "_________";
-    sleep(1.5);
-    echo "__________
-";
+    echo "$green Tunggu Sebentar";
     sleep(2);
+    echo "== 10%";
+    sleep(2);
+    echo "=== 25%";
+    sleep(2.5);
+    echo "==== 30%";
+    sleep(3);
+    echo "===== 35%";
+    sleep(3.5);
+    echo "====== 40%";
+    sleep(3.5);
+    echo "======= 50%";
+    sleep(4);
+    echo "======== 60%";
+    sleep(4.5);
+    echo "========= 80%";
+    sleep(4.5);
+    echo "========== 100%
+";
+    sleep(10);
     echo " 
 ";
     input("$yellow Yakin Ingin Pakai Script Ini ? $green [y/n]");
