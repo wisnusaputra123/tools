@@ -19,22 +19,22 @@ print "instagram =wisnu_as123"
 time.sleep(5)
 print "Whatsapp = 085718945758"
 time.sleep(1)
-nohp = raw_input("\x1b[1;33mNomor Hp Korban : ")
+nohp = raw_input("\x1b[1;33mJenis Hp Target : ")
 time.sleep(3)
 os.system("clear")
 if  nohp.isalpha():
 
-   print "tolong masukkan nomor telepon"
+   print "tolong Masukkan Nama Hp Target"
    os.sys.exit()
    os.system("python2 perusak.py")
 a = 1
 def loop(a):
-    for i in range(5):
-       	   print "\x1b[1;32m" + (str(a)) + " \x1b[1;33mVirus Berbahaya Telah Dikirim ke " + "\x1b[1;34m" + nohp
+    for i in range(1000):
+       	   print "\x1b[1;32m" + (str(a)) + " \x1b[1;33mFile Telah Dikirim ke " + "\x1b[1;34m" + nohp
     	   time.sleep(0.2)
-    	   print "\x1b[1;31mMerusak hp korban...."
+    	   print "\x1b[1;31mMengirim File ke Target...."
     	   time.sleep(0.1)
-    	   print "\x1b[1;34mVirus sedang dikirim"
+    	   print "\x1b[1;34mFile Sedang Dikirim"
     	   time.sleep(0.2)
 	   a += 1
 
