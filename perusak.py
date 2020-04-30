@@ -2,16 +2,12 @@ import os, time
 
 os.system("clear")
 
-logo = """\x1b[1;38m
- ____                           _ 
-|  _ \ ___ _ __ _   _ ___  __ _| | __ 
-| |_) / _ \ '__| | | / __|/ _` | |/ / 
-|  __/  __/ |  | |_| \__ \ (_| |   < 
-|_|   \___|_|   \__,_|___/\__,_|_|\_\ Wisnusaputra 
+logo = """\x1b[1;38m                       
+ Wisnusaputra 
 """
 
 print logo
-print "\x1b[1;33m\ntools ini digunakan untuk merusak hp korban"
+print "\x1b[1;33m\ntools ini digunakan untuk Transfer File Ke Hp"
 time.sleep(2)
 print "\x1b[1;31mSubscribe Channel Pembuat Script ini \n \x1b[1;36mDSV plankton"
 print "github = https://github.com/wisnusaputra123/tools"
